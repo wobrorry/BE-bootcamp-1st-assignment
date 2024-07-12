@@ -1,16 +1,18 @@
 # BE-bootcamp 1st Assignment
 
 ### DBeaver 접속 화면
-<img width="1259" alt="image" src="https://github.com/user-attachments/assets/2b23add8-5c26-41e1-8eab-caf9dedd9efe">
+![스크린샷 2024-07-12 224636](https://github.com/user-attachments/assets/e4b516b9-9663-4ad1-97e3-08ae4af89289)
+
 
 
 ### Ping Controller 실행 화면
 http://localhost:9080/ping 로 접속한 화면
 
-<img width="595" alt="image" src="https://github.com/user-attachments/assets/dba6a461-afdc-4ad7-8d49-358262547c15">
+![스크린샷 2024-07-12 224543](https://github.com/user-attachments/assets/5072917b-0bb0-4744-9afc-7fb571e2bba5)
 
 
 ### HomeController 실행 화면
 http://localhost:9080/requests 로 접속한 화면
 
-<img width="592" alt="image" src="https://github.com/user-attachments/assets/9deed8ac-e06b-4f72-8947-a8ddff6a06f9">
+![스크린샷 2024-07-12 224426](https://github.com/user-attachments/assets/f8e92cb6-a443-4304-89ae-271873ae9de1)
+
