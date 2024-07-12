@@ -16,3 +16,7 @@ http://localhost:9080/requests 로 접속한 화면
 
 ![스크린샷 2024-07-12 224426](https://github.com/user-attachments/assets/f8e92cb6-a443-4304-89ae-271873ae9de1)
 
+
+### 스프링 환경 구축 VS 스프링부트 환경 구축
+
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/dc1ee71b-fe90-4bfd-9948-a739153bae16">
